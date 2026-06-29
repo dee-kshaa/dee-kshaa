@@ -345,7 +345,11 @@ current_focus:
     <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
   </a>
 </p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dee-kshaa/dee-kshaa/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/dee-kshaa/dee-kshaa/blob/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://github.com/dee-kshaa/dee-kshaa/blob/output/github-contribution-grid-snake.svg">
+</picture>
 ---
 
 <p align="center">
