@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;repeat=true&amp;width=700&amp;lines=IEEE+Researcher+%7C+Signal+Processing+%26+Satellite+Systems;AI-enabled+Embedded+Systems+%7C+GNSS%2FSBAS+Engineering;ECE+%40+CMRIT+Bengaluru+%7C+VTU+%7C+CGPA+9.02%2F10" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;repeat=true&amp;width=700&amp;lines=IEEE+Researcher+%7C+Signal+Processing+%26+Satellite+Systems;AIenabled+Embedded+Systems+%7C+GNSS%2FSBAS+Engineering;ECE+%40+CMRIT+Bengaluru+%7C+VTU+%7C+CGPA+9.02%2F10" alt="Typing SVG" />
   </a>
 </p>
 
