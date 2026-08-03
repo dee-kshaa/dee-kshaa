@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/ECE%20%40%20CMRIT-VTU%202023--27-7C3AED?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CGPA-9.02%2F10-6D28D9?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CGPA-8.98%2F10-6D28D9?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/IEEE%20SPS-Vice%20Chairperson-4F46E5?style=for-the-badge&logo=ieee&logoColor=white"/>
 </p>
 
