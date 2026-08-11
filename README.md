@@ -38,7 +38,6 @@ Interned in the GNSS/SBAS division at the Airports Authority of India's GAGAN Co
 *GNSS / SBAS Division · Bengaluru · 2024*
 
 - Built Python dashboards for satellite telemetry visualisation used in [fill: daily performance review / internal reporting — say who used it]
-- Processed [fill: what data, over what period — e.g. "GAGAN ionospheric grid data across N reference stations"]
 - Wrote technical documentation for operational review
 
 `Python` · `GNSS` · `SBAS` · `Telemetry analysis`
